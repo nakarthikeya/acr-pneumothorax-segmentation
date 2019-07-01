@@ -1,1 +1,1 @@
-"# Kaggle Pneumothoraz Segmentation" 
+# Kaggle pneumothorax-Segmentation
